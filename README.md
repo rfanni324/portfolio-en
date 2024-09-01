@@ -6,7 +6,7 @@ The data was provided by my university teacher. I assembled the necessary data a
 ![](./assets_en/GSO_EN.jpg)
 # Data Analysis Projects
 ### *With Jupyter Notebook*
-# [Reusable energy](https://github.com/rfanni324/energy-p1)
+# [Renewable energy](https://github.com/rfanni324/energy-p1)
 
 ### About the data:
 - database is from [kaggle](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data)
