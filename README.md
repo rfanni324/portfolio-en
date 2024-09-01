@@ -10,7 +10,7 @@ The data was provided by my university teacher. I assembled the necessary data a
 
 ### About the data:
 - database is from [kaggle](https://www.kaggle.com/datasets/anishvijay/global-renewable-energy-and-indicators-dataset/data)
-- 56 columns and 2500 lines 
+- 56 columns and 2500 rows
 
 ### Work process:
 
@@ -35,7 +35,7 @@ The data was provided by my university teacher. I assembled the necessary data a
 
 ### About the data:
 - data was provided by my university teacher
-- 13 columns 148654 lines
+- 13 columns 148654 rows
 - columns: Id(int64), EmployeeName(object), JobTitle(object), BasePay(float64), OvertimePay(float64), OtherPay(float64), Benefits(float64), TotalPay(float64), TotalPayBenefits(float64), Year(int64), Notes(float64), Agency(object), Status(float64)
 
 ### Work process:
