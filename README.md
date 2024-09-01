@@ -2,7 +2,7 @@
 **I made these projects in order to practice and to further develop the skills I learned during my university courses.**
 # [Power BI Project](https://github.com/rfanni324/power-bi-project)
 ### About the data: 
-The data was provided by my university teacher. I assembled the necessary data and cleaned it in excel power pivot. I made KPIs and other calculations in excel but I also had to add to it in Power BI too.
+The data was provided by my university teacher. I assembled the necessary data and cleaned it in excel power pivot. I made KPIs and other calculations in excel but I also had to add to it in Power BI.
 ![](./assets_en/GSO_EN.jpg)
 # Data Analysis Projects
 ### *With Jupyter Notebook*
