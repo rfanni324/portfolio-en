@@ -1,4 +1,4 @@
-# Intoduction
+# Introduction
 **I made these projects in order to practice and to further develop the skills I learned during my university courses.**
 # [Power BI Project](https://github.com/rfanni324/power-bi-project)
 ### About the data: 
